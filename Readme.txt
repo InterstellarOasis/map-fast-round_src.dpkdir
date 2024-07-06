@@ -10,3 +10,6 @@ Date:     September 23 2020
   
 Map created by Gucior.
 
+---- LICENSE ---------------------------------------------------
+
+Map licensed under CC-BY 4.0.
